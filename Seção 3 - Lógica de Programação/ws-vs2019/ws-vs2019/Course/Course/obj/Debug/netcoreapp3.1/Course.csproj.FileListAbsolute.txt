@@ -1,0 +1,14 @@
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.AssemblyReference.cache
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache

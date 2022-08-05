@@ -1,0 +1,14 @@
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Exercicio6_Aula24\Exercicio6_Aula24\bin\Debug\netcoreapp3.1\Exercicio6_Aula24.exe
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Exercicio6_Aula24\Exercicio6_Aula24\bin\Debug\netcoreapp3.1\Exercicio6_Aula24.deps.json
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Exercicio6_Aula24\Exercicio6_Aula24\bin\Debug\netcoreapp3.1\Exercicio6_Aula24.runtimeconfig.json
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Exercicio6_Aula24\Exercicio6_Aula24\bin\Debug\netcoreapp3.1\Exercicio6_Aula24.runtimeconfig.dev.json
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Exercicio6_Aula24\Exercicio6_Aula24\bin\Debug\netcoreapp3.1\Exercicio6_Aula24.dll
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Exercicio6_Aula24\Exercicio6_Aula24\bin\Debug\netcoreapp3.1\Exercicio6_Aula24.pdb
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Exercicio6_Aula24\Exercicio6_Aula24\obj\Debug\netcoreapp3.1\Exercicio6_Aula24.csproj.AssemblyReference.cache
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Exercicio6_Aula24\Exercicio6_Aula24\obj\Debug\netcoreapp3.1\Exercicio6_Aula24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Exercicio6_Aula24\Exercicio6_Aula24\obj\Debug\netcoreapp3.1\Exercicio6_Aula24.AssemblyInfoInputs.cache
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Exercicio6_Aula24\Exercicio6_Aula24\obj\Debug\netcoreapp3.1\Exercicio6_Aula24.AssemblyInfo.cs
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Exercicio6_Aula24\Exercicio6_Aula24\obj\Debug\netcoreapp3.1\Exercicio6_Aula24.csproj.CoreCompileInputs.cache
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Exercicio6_Aula24\Exercicio6_Aula24\obj\Debug\netcoreapp3.1\Exercicio6_Aula24.dll
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Exercicio6_Aula24\Exercicio6_Aula24\obj\Debug\netcoreapp3.1\Exercicio6_Aula24.pdb
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Exercicio6_Aula24\Exercicio6_Aula24\obj\Debug\netcoreapp3.1\Exercicio6_Aula24.genruntimeconfig.cache

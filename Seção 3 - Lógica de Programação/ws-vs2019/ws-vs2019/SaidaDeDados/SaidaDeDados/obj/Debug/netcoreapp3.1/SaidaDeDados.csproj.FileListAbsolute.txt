@@ -1,0 +1,14 @@
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.exe
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.deps.json
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.runtimeconfig.json
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.runtimeconfig.dev.json
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.dll
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.1\SaidaDeDados.pdb
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.csproj.AssemblyReference.cache
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.AssemblyInfo.cs
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.dll
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.pdb
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.1\SaidaDeDados.genruntimeconfig.cache

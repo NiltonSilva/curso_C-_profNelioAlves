@@ -1,0 +1,14 @@
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Aula32-While\Aula32-While\bin\Debug\netcoreapp3.1\Aula32-While.exe
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Aula32-While\Aula32-While\bin\Debug\netcoreapp3.1\Aula32-While.deps.json
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Aula32-While\Aula32-While\bin\Debug\netcoreapp3.1\Aula32-While.runtimeconfig.json
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Aula32-While\Aula32-While\bin\Debug\netcoreapp3.1\Aula32-While.runtimeconfig.dev.json
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Aula32-While\Aula32-While\bin\Debug\netcoreapp3.1\Aula32-While.dll
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Aula32-While\Aula32-While\bin\Debug\netcoreapp3.1\Aula32-While.pdb
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Aula32-While\Aula32-While\obj\Debug\netcoreapp3.1\Aula32-While.csproj.AssemblyReference.cache
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Aula32-While\Aula32-While\obj\Debug\netcoreapp3.1\Aula32-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Aula32-While\Aula32-While\obj\Debug\netcoreapp3.1\Aula32-While.AssemblyInfoInputs.cache
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Aula32-While\Aula32-While\obj\Debug\netcoreapp3.1\Aula32-While.AssemblyInfo.cs
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Aula32-While\Aula32-While\obj\Debug\netcoreapp3.1\Aula32-While.csproj.CoreCompileInputs.cache
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Aula32-While\Aula32-While\obj\Debug\netcoreapp3.1\Aula32-While.dll
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Aula32-While\Aula32-While\obj\Debug\netcoreapp3.1\Aula32-While.pdb
+C:\Users\nilton.silva\Desktop\Cursos\Udemy\C# - Nelio Alves\Seção 3 - Lógica de Programação\ws-vs2019\ws-vs2019\Aula32-While\Aula32-While\obj\Debug\netcoreapp3.1\Aula32-While.genruntimeconfig.cache
